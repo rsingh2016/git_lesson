@@ -2,7 +2,7 @@ public class HelloJava{
 
 public static String square(int num){
 
-return String.valueOf(num * num);
+return String.valueOf("square="+num * num);
 
 }
 
