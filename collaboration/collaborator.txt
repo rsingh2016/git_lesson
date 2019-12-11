@@ -1,4 +1,8 @@
+
 #A file used by the collaborator and edit by owner
+
+#collaboration
+
 I am a collaborator rsingh2019
 
 2019 added this changes!
@@ -6,6 +10,9 @@ After you make a pull request, you don't have to resubmit
 
 This is a change without running 'git pull upstream development first'
 second time!
+
+edited by collaborator
+Resolved by collaborator
 
 
 
